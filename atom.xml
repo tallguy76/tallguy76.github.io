@@ -4,7 +4,7 @@
   <title><![CDATA[Renormalized]]></title>
   <link href="http://tallguy76.github.io/atom.xml" rel="self"/>
   <link href="http://tallguy76.github.io/"/>
-  <updated>2013-09-17T12:39:34-04:00</updated>
+  <updated>2013-09-17T13:59:29-04:00</updated>
   <id>http://tallguy76.github.io/</id>
   <author>
     <name><![CDATA[Jeffrey Willson]]></name>
@@ -12,5 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Renormalized is back to normal for the first time]]></title>
+    <link href="http://tallguy76.github.io/blog/2013/09/17/renormalized-is-back-to-normal-for-the-first-time/"/>
+    <updated>2013-09-17T12:48:00-04:00</updated>
+    <id>http://tallguy76.github.io/blog/2013/09/17/renormalized-is-back-to-normal-for-the-first-time</id>
+    <content type="html"><![CDATA[<h2>The initial post of this blog. It will never again be without a post</h2>
+
+<p>Fullstack Academy recommended that start keeping a journal when we
+began the prep work. Thus I&rsquo;ve got a wealth of relevant material that I <em>could</em> put online here, but
+I&rsquo;m not sure it would be interesting to anybody. Typical excerpt:</p>
+
+<blockquote><p>The CodeAcademy tutorial was slightly annoying. I wonder why it recommends the syntax</p>
+
+<p><code>
+var f = function (x){};
+</code></p>
+
+<p>defining a lambda and assigning a value to it, instead of
+<code>
+function f(x){}
+</code></p></blockquote>
+
+<p>On request I&rsquo;ve got a <strong>lot</strong> more of this that I could add.</p>
+]]></content>
+  </entry>
   
 </feed>
